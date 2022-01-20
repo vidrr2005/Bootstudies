@@ -1,0 +1,199 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
+
+h3 {
+  font-size: 1.5rem;
+}
+
+i:hover {
+  color: #ff4c68;
+}
+
+/* Headings */
+.heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.intro {
+  color: white;
+  font-size: 4rem;
+}
+
+.cta-header {
+  font-size: 4rem;
+  margin-bottom: 5%;
+  color: #ffff;
+}
+
+/* Sections */
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+
+
+#container1 {
+  padding: 3% 15% 7%;
+}
+
+
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.title-image {
+  width: 50%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+#features {
+  text-align: center;
+}
+
+/* 2da parte */
+
+
+
+.col-lg-4 {
+  margin-bottom: 45px;
+  margin-top: 45px;
+}
+
+.details {
+  padding: 3% 13%;
+}
+
+.fa-check-circle {
+  font-size: 75px;
+  color: #ef8172;
+}
+
+.row p {
+  color: #8f8f8f
+}
+
+.fa-bullseye {
+  font-size: 75px;
+  color: #ef8172;
+}
+
+.fa-heart {
+  font-size: 75px;
+  color: #ef8172;
+}
+
+
+
+/* Intermediate Bootstrap */
+
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+  text-align: center;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#features {
+  /* margin: 70px 0 70px; */
+  background-color: white;
+  padding: 7% 15%;
+  position: relative;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.2header {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.img-rezising {
+  position: relative;
+}
+
+@media (max-width: 1028px) {
+    .title-image {
+      position: static;
+      transform: rotate(0deg);
+    }
+
+    #title {
+      text-align: center;
+    }
+
+}
+
+/* Challenge #2 */
+#cta {
+    padding: 10%;
+    text-align: center;
+}
+
+
+#footer {
+  padding: 6%;
+  text-align: center;
+}
+
+#footer p {
+  margin-top: 20px;
+}
+
+#footer i {
+  font-size: 20px;
+}

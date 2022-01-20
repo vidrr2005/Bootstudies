@@ -1,2 +1,1 @@
-# Bootstudies
-Bootstrap course files
+TinDog Starting Files
